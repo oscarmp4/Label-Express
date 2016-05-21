@@ -1,0 +1,17 @@
+S:\_TESTs\Labels\Label Express\Label Express\Label Express\bin\Debug\Label Express.exe.config
+S:\_TESTs\Labels\Label Express\Label Express\Label Express\bin\Debug\Label Express.exe
+S:\_TESTs\Labels\Label Express\Label Express\Label Express\bin\Debug\Label Express.pdb
+S:\_TESTs\Labels\Label Express\Label Express\Label Express\obj\Debug\Label_Express.Form1.resources
+S:\_TESTs\Labels\Label Express\Label Express\Label Express\obj\Debug\Label_Express.Properties.Resources.resources
+S:\_TESTs\Labels\Label Express\Label Express\Label Express\obj\Debug\Label Express.csproj.GenerateResource.Cache
+S:\_TESTs\Labels\Label Express\Label Express\Label Express\obj\Debug\Label Express.exe
+S:\_TESTs\Labels\Label Express\Label Express\Label Express\obj\Debug\Label Express.pdb
+S:\_TESTs\Labels\Label Express\Label Express\bin\Debug\Label Express.exe.config
+S:\_TESTs\Labels\Label Express\Label Express\obj\Debug\Label Express.exe
+S:\_TESTs\Labels\Label Express\Label Express\obj\Debug\Label Express.pdb
+S:\_TESTs\Labels\Label Express\Label Express\bin\Debug\Label Express.exe
+S:\_TESTs\Labels\Label Express\Label Express\bin\Debug\Label Express.pdb
+S:\_TESTs\Labels\Label Express\Label Express\obj\Debug\Label Express.csprojResolveAssemblyReference.cache
+S:\_TESTs\Labels\Label Express\Label Express\obj\Debug\Label_Express.Form1.resources
+S:\_TESTs\Labels\Label Express\Label Express\obj\Debug\Label_Express.Properties.Resources.resources
+S:\_TESTs\Labels\Label Express\Label Express\obj\Debug\Label Express.csproj.GenerateResource.Cache
